@@ -1,0 +1,7 @@
+composer.phab
+composer.lock
+README.md
+.settings/*
+.git/*
+.buildpath
+.project
